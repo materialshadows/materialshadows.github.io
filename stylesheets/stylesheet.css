@@ -1,11 +1,14 @@
-
+@font-face {
+   font-family: pfuniversal-regular-webfont;
+   src:url(pfuniversal-regular-webfont.ttf);
+}
 body {
   background-color:#37474F;
 }
 .text {
  border:2px #ffffff solid;
   background-color:#bababa;
-  font-family: 'Minecraft';
+  font-family: 'Comfortaa';
   color:white;
   width:100%;
   font-size:30px;
@@ -24,7 +27,7 @@ body {
 
 .title {
   color:white;
-  font-family:'Comfortaa';
+  font-family:'pfuniversal-regular-webfont';
   font-size:55px;
 }
 .h2 {
